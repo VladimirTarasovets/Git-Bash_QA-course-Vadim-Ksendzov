@@ -1,0 +1,1 @@
+# Git-Bash_QA-course-Vadim-Ksendzov
